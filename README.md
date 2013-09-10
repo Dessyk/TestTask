@@ -59,5 +59,5 @@ TestTask
 
 Вы можете использовать любые инструменты.
 
-Готовый проект запакуйте в архив и отправьте на email: <a href="mailto:develop@tui.ua">develop@tui.ua</a> 
+Готовый проект запакуйте в архив и отправьте на email: <a href="mailto:a.klochanyi@tui.ua">develop@tui.ua</a> 
 
